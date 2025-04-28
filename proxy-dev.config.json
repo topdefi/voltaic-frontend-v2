@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "https://merged.cyberpool.io",
+        "secure": true,
+        "changeOrigin": true
+    }
+}

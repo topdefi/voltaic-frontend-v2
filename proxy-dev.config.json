@@ -1,6 +1,6 @@
 {
     "/api/*": {
-        "target": "https://merged.cyberpool.io",
+        "target": "https://voltaem.io",
         "secure": true,
         "changeOrigin": true
     }
